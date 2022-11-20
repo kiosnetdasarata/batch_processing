@@ -1,0 +1,17 @@
+{
+    "postgres":{
+        "host":"localhost",
+        "db":"public",
+        "user":"postgres",
+        "password":"OCHieira2234",
+        "post":"5432"
+
+    },
+    "dwh":{
+        "host":"localhost",
+        "db":"dwh",
+        "user":"postgres",
+        "password":"OCHieira2234",
+        "post":"5432"
+    }
+}
