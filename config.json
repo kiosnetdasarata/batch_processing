@@ -1,17 +1,17 @@
 {
-    "postgres":{
+    "marketplace_prod":{
         "host":"localhost",
-        "db":"public",
+        "db":"marketplace_prod",
         "user":"postgres",
-        "password":"OCHieira2234",
-        "post":"5432"
+        "password":"Ochieira2234",
+        "port":"5432"
 
     },
     "dwh":{
         "host":"localhost",
         "db":"dwh",
         "user":"postgres",
-        "password":"OCHieira2234",
-        "post":"5432"
+        "password":"Ochieira2234",
+        "port":"5432"
     }
 }
